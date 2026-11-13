@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "work_order": "G202611020001",
+    "product": "真人发套18寸",
+    "process": "1",
+    "total_qty": 230,
+    "defect_qty": 20,
+    "defect_desc": "顶部网底发丝脱落出现秃块"
+  },
+  {
+    "id": "2",
+    "work_order": "G202611020002",
+    "product": "发帘子",
+    "process": "2",
+    "total_qty": 100,
+    "defect_qty": 10,
+    "defect_desc": "局部露网，发量明显变少"
+  },
+  {
+    "id": "3",
+    "work_order": "G202611020003",
+    "product": "色板",
+    "process": "1",
+    "total_qty": 60,
+    "defect_qty": 4,
+    "defect_desc": "发色偏黄，与#2色板不一致"
+  },
+  {
+    "id": "4",
+    "work_order": "G202611020004",
+    "product": "结发18",
+    "process": "2",
+    "total_qty": 130,
+    "defect_qty": 6,
+    "defect_desc": "染色后色调偏差"
+  },
+  {
+    "id": "5",
+    "work_order": "G202611020005",
+    "product": "结发20",
+    "process": "3",
+    "total_qty": 870,
+    "defect_qty": 100,
+    "defect_desc": "网帽偏小 1cm，后脑勺勒"
+  },
+
+    {
+    "id": "6",
+    "work_order": "G202611020006",
+    "product": "结发20",
+    "process": "3",
+    "total_qty": 170,
+    "defect_qty": 10,
+    "defect_desc": "网帽偏小 1cm，后脑勺勒"
+  },
+
+    {
+    "id": "7",
+    "work_order": "G202611020007",
+    "product": "结发20",
+    "process": "3",
+    "total_qty": 270,
+    "defect_qty": 30,
+    "defect_desc": "网帽偏小 1cm，后脑勺勒"
+  }
+]

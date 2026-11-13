@@ -1,0 +1,42 @@
+# 密钥与本地环境变量
+.env
+.env.*
+!.env.example
+!.env.development
+!.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# 本地数据库
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# 前端依赖与构建产物
+node_modules/
+dist/
+dist-ssr/
+
+# IDE
+.idea/
+*.iml
+.vscode/*
+!.vscode/extensions.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
